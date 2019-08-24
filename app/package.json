@@ -1,0 +1,10 @@
+{
+  "name": "PhishNet",
+  "version": "1.0.0",
+  "main": "index.js",
+  "author": "Don Cheadle Team",
+  "license": "MIT",
+  "dependencies": {
+    "expo-cli": "^3.0.10"
+  }
+}

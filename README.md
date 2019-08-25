@@ -2,6 +2,10 @@
 
 Project made in 24 hours during the HackMTY: The biggest student hack in Mexico
 
+@MarioJim
+@Lars17S
+@KevinTMtz
+
 This project prototypes an anti-phishing app which runs as a VPN in the background.
 
 It has 3 factor security which includes:
